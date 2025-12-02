@@ -1,9 +1,0 @@
-{
-  "name": "SoundTabs",
-  "description": "Per-tab MPRIS native host",
-  "path": "/usr/local/bin/sound_tabs_host.py",
-  "type": "stdio",
-  "allowed_extensions": [
-    "soundtabs-mpris@soundtabs.addon"
-  ]
-}

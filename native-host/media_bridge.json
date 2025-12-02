@@ -1,0 +1,9 @@
+{
+  "name": "media_bridge",
+  "description": "Per-tab MPRIS native host",
+  "path": "/home/dustin/projects/apps/stasis/scripts/media_bridge_host.py",
+  "type": "stdio",
+  "allowed_extensions": [
+    "media-bridge@mediabridge.addon"
+  ]
+}
